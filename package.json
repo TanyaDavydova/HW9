@@ -1,0 +1,15 @@
+{
+  "name": "hw9",
+  "version": "1.0.0",
+  "description": "to do list",
+  "main": "app9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davydova Tania",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1"
+  }
+}
